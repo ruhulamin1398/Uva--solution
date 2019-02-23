@@ -3,7 +3,7 @@ using namespace std;
 int l[100010], r[100010];
 int main()
 {
-    int tc,kk=1, n, q, left, right;
+    int n, q, left, right;
     while(cin>>n>>q)
     {
         if(!n && !q) return 0;
