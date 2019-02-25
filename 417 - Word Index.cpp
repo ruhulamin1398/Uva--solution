@@ -22,7 +22,7 @@
 #define iscn(num)             scanf("%d",&num);
 
 using namespace std;
-void FAST_IO();
+// void FAST_IO();
 
 
 
@@ -55,7 +55,7 @@ void generate_positions(){
 int main()
 {
       _time_
-  FAST_IO();
+ // FAST_IO();
 
  ////////////////////////////////////////////////////////
 
@@ -78,7 +78,7 @@ int main()
 
 
 //////////////////////////////////////
-   _show_
+  // _show_
     return 0;
 }
 void FAST_IO()
